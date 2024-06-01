@@ -1,3 +1,5 @@
+(This is a guide for an [instructable](https://www.instructables.com/Remaking-the-Bookshelf-With-AI/) )
+
 # Server (pi) instructions
 1. Clone the repository onto your pi with the command `git clone https://github.com/Dragon863/Bookshelf-AI`
 2. Run `cd Bookshelf-AI`
